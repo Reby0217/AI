@@ -3,8 +3,8 @@
 - Value of Information and Value of Control
 - Value Iteration
 - Belief State Update in POMDPs
-#### POMDPs
-Compute and print out the belief state of the agent after performing $a_1$:n and observing $e_1$:n 
+  #### POMDPs:
+  Compute and print out the belief state of the agent after performing $a_1$:n and observing $e_1$:n 
 (i.e., observing each ei after performing the corresponding $a_i$ )
 
   Inputs <br/>
@@ -36,7 +36,7 @@ Compute and print out the belief state of the agent after performing $a_1$:n and
 ## 4
 - Similarity Metrics in Ontologies
 - Probabilistic Context-Free Grammars (PCFG)
-  #### PCFG
+  #### PCFG:
   Compute: <br/>
     • Estimates for the grammar probabilities based on silly-corpus <br/>
     • Given new grammar, compute the probability of the most likely parse for each of the following two sentences: *John plays soccer at school* and *John plays soccer*  <br/>
