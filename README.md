@@ -25,7 +25,8 @@ Compute: <br/>
   • How many times WalkSAT terminates successfully for each of these sets of 50 problems <br/>
   • The median number of “flips” (i.e. steps) for each of these sets of 50 problems, considering only the cases when WalkSAT terminates successfully
   
-#### Probabilistic Context-Free Grammars (PCFG)
+### Probabilistic Context-Free Grammars
+#### PCFG
 Compute: <br/>
   • Estimates for the grammar probabilities based on silly-corpus <br/>
   • Given new grammar, compute the probability of the most likely parse for each of the following two sentences: *John plays soccer at school* and *John plays soccer*  <br/>
