@@ -21,6 +21,6 @@ Estimate the probability of the event P(r|s,w) using sampling methods. <br/>
 
 
 #### WalkSAT
-Compute:
+Compute: <br/>
   • How many times WalkSAT terminates successfully for each of these sets of 50 problems <br/>
   • The median number of “flips” (i.e. steps) for each of these sets of 50 problems, considering only the cases when WalkSAT terminates successfully
