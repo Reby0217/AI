@@ -33,10 +33,11 @@ Compute and print out the belief state of the agent after performing $a_1$:n and
     • The median number of “flips” (i.e. steps) for each of these sets of 50 problems, considering only the cases when WalkSAT terminates successfully
 - Semantics of First-Order Logic
 
-  
-### Probabilistic Context-Free Grammars
-#### PCFG
-Compute: <br/>
-  • Estimates for the grammar probabilities based on silly-corpus <br/>
-  • Given new grammar, compute the probability of the most likely parse for each of the following two sentences: *John plays soccer at school* and *John plays soccer*  <br/>
-  • Compute the same two probabilities with the old grammar  <br/>
+## 4
+- Similarity Metrics in Ontologies
+- Probabilistic Context-Free Grammars (PCFG)
+  #### PCFG
+  Compute: <br/>
+    • Estimates for the grammar probabilities based on silly-corpus <br/>
+    • Given new grammar, compute the probability of the most likely parse for each of the following two sentences: *John plays soccer at school* and *John plays soccer*  <br/>
+    • Compute the same two probabilities with the old grammar  <br/>
