@@ -18,3 +18,9 @@ Estimate the probability of the event P(r|s,w) using sampling methods. <br/>
 #### Gibbs:
   Compute the probability P(A| $b_1$) using Gibbs Sampling. <br/>
   <img width="280" alt="Markov" src="https://user-images.githubusercontent.com/100398733/220796851-59366e61-3f75-4630-b343-e0b75c215c34.png">
+
+
+#### WalkSAT
+Compute:
+  • How many times WalkSAT terminates successfully for each of these sets of 50 problems <br/>
+  • The median number of “flips” (i.e. steps) for each of these sets of 50 problems, considering only the cases when WalkSAT terminates successfully
